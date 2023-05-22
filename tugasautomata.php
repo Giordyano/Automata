@@ -98,6 +98,12 @@ function nfa($huruf)
 }
     ?>
     </div>
+    <div style="font-family:Helvetica; color:white; text-align:center; margin-left: auto; margin-right: auto;">
+        <p>
+            Click Here!
+        </p>
+        <a href="https://github.com/Giordyano/Automata/blob/main/tugasautomata.php" target="_blank">This is my source code!</a>
+    </div>
     <br>
 </body>
 </html>
